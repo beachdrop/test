@@ -1,0 +1,63 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="135102714"/>
+    <file name="master_a-master.css" crc="4268004910" ref="index:location:sidebar:product"/>
+    <file name="index.css" crc="4185519204" ref="index"/>
+    <file name="location.css" crc="234791838" ref="location"/>
+    <file name="sidebar.css" crc="3982184891" ref="sidebar"/>
+    <file name="product.css" crc="35008154" ref="product"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="museutils.js" crc="4291592202" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="museredirect.js" crc="4101519497" ref="index:product:location:sidebar"/>
+  </folder>
+  <folder name="images">
+    <file name="master_bg.jpg" crc="3779775263" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="distressed_overlay257x172.png" crc="4136943159" ref="phone>index"/>
+    <file name="logo_smudge_bg.png" crc="281752095" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="distressed_overlay233x156.png" crc="4080102088" ref="phone>index"/>
+    <file name="buger355x205.png" crc="4133442014" ref="phone>index"/>
+    <file name="iphone223x302.png" crc="3817642099" ref="phone>index"/>
+    <file name="iphone.png" crc="124875305" ref="phone>index:phone>location:phone>sidebar:index:location:sidebar"/>
+    <file name="product_burger.png" crc="148427335" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="iphone_backsplash365x180.png" crc="454182472" ref="phone>index"/>
+    <file name="dribble.png" crc="267414294" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="facebook.png" crc="388568102" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="rss.png" crc="4264116971" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="twitter.png" crc="411006314" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="youtube.png" crc="280532321" ref="phone>index:phone>product:phone>location:phone>sidebar:index:product:location:sidebar"/>
+    <file name="distressed_overlay320x214.png" crc="3880445888" ref="phone>product"/>
+    <file name="distressed_overlay230x154.png" crc="3975098829" ref="index"/>
+    <file name="distressed_overlay.png" crc="4028101887" ref="index:product:sidebar"/>
+    <file name="buger.png" crc="274866642" ref="index"/>
+    <file name="iphone_backsplash.png" crc="343946537" ref="index:product:location:sidebar"/>
+    <file name="distressed_overlay434x290.png" crc="3849080117" ref="product"/>
+    <file name="map_shadow.png" crc="3820365482" ref="location"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="404465592" ref="phone>location:phone>product:phone>index:phone>sidebar"/>
+      <file name="location.css" crc="389014600" ref="phone>location"/>
+      <file name="product.css" crc="430694174" ref="phone>product"/>
+      <file name="index.css" crc="86604447" ref="phone>index"/>
+      <file name="sidebar.css" crc="333260508" ref="phone>sidebar"/>
+    </folder>
+    <file name="index.html" crc="282282779" mt="1462176526119" redirect="true"/>
+    <file name="product.html" crc="20614583" mt="1462176526091" redirect="true"/>
+    <file name="location.html" crc="435822762" mt="1462176526029" redirect="true"/>
+    <file name="sidebar.html" crc="524623291" mt="1462176526002" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="23350771" mt="1462176526279" redirect="true"/>
+  <file name="product.html" crc="4055536556" mt="1462176526254" redirect="true"/>
+  <file name="location.html" crc="4219422813" mt="1462176526168" redirect="true"/>
+  <file name="sidebar.html" crc="219573027" mt="1462176526147" redirect="true"/>
+</manifest>

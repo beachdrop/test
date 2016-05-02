@@ -1,0 +1,217 @@
+#u2724-4
+{
+	color: #FFFFFF;
+	font-size: 48px;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2743
+{
+	position: relative;
+	background: transparent url("../../images/logo_smudge_bg.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2743:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain !important;
+}
+
+#u2744-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2743:hover #u2744-4 p
+{
+	color: #FFBD00;
+	visibility: inherit;
+}
+
+#u2752
+{
+	position: relative;
+	background: transparent url("../../images/logo_smudge_bg.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2754-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2752:hover #u2754-4 p
+{
+	color: #FFBD00;
+	visibility: inherit;
+}
+
+#u2759
+{
+	position: relative;
+	background: transparent url("../../images/logo_smudge_bg.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2760-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2759:hover #u2760-4 p
+{
+	color: #FFBD00;
+	visibility: inherit;
+}
+
+#u2778
+{
+	position: relative;
+	background: transparent url("../../images/logo_smudge_bg.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u2743.MuseMenuActive,#u2752.MuseMenuActive,#u2759.MuseMenuActive,#u2778.MuseMenuActive
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain !important;
+}
+
+#u2781-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2743.MuseMenuActive #u2744-4,#u2752.MuseMenuActive #u2754-4,#u2759.MuseMenuActive #u2760-4,#u2778.MuseMenuActive #u2781-4
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u2778:hover #u2781-4 p
+{
+	color: #FFBD00;
+	visibility: inherit;
+}
+
+#u2743.MuseMenuActive #u2744-4 p,#u2752.MuseMenuActive #u2754-4 p,#u2759.MuseMenuActive #u2760-4 p,#u2778.MuseMenuActive #u2781-4 p
+{
+	color: #FFBD00;
+	visibility: inherit;
+	font-family: pt-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u2725_img
+{
+	opacity: 0.39;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=39)";
+	filter: alpha(opacity=39);
+}
+
+#u2729-4
+{
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 1.5;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1085,#u2722,#menuu2741,#u2742,#u2749,#u2756,#u2777,#u2725,#u2727-4,#u2730
+{
+	position: relative;
+}
+
+#u2735
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2737
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2739
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2731
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2733
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2735:hover,#u2737:hover,#u2739:hover,#u2731:hover,#u2733:hover
+{
+	background-color: transparent;
+}
+
+#u2735_img:hover,#u2737_img:hover,#u2739_img:hover,#u2731_img:hover,#u2733_img:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u2728-4
+{
+	text-align: center;
+	position: relative;
+}
+
